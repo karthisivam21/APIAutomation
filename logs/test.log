@@ -1,0 +1,26 @@
+23:58:27.326 [main] INFO  com.api.listeners.apiListeners - Test Started
+23:58:27.353 [main] INFO  com.api.listeners.apiListeners - Test Start:LoginAPIDeSerialize
+23:58:27.353 [main] INFO  com.api.listeners.apiListeners - Test Start Description:LoginAPIDeSerialize
+23:58:29.586 [main] INFO  com.api.listeners.apiListeners - Test Success:LoginAPIDeSerialize
+23:58:29.587 [main] INFO  com.api.listeners.apiListeners - Test Success Description:LoginAPIDeSerialize
+23:58:29.588 [main] INFO  com.api.listeners.apiListeners - Test Start:LoginAPIInvalidCredntial
+23:58:29.588 [main] INFO  com.api.listeners.apiListeners - Test Start Description:LoginAPIInvalidCredntial
+23:58:30.670 [main] INFO  com.api.listeners.apiListeners - Test Failed:LoginAPIInvalidCredntial
+23:58:30.670 [main] INFO  com.api.listeners.apiListeners - Test Failed Description:LoginAPIInvalidCredntial
+23:58:30.671 [main] INFO  com.api.listeners.apiListeners - Test Start:LoginAPIPOJOSerialization
+23:58:30.671 [main] INFO  com.api.listeners.apiListeners - Test Start Description:LoginAPIPOJOSerialization
+23:58:31.775 [main] INFO  com.api.listeners.apiListeners - Test Success:LoginAPIPOJOSerialization
+23:58:31.776 [main] INFO  com.api.listeners.apiListeners - Test Success Description:LoginAPIPOJOSerialization
+23:58:31.777 [main] INFO  com.api.listeners.apiListeners - Test Start:loginAPIBasic
+23:58:31.777 [main] INFO  com.api.listeners.apiListeners - Test Start Description:loginAPIBasic
+23:58:32.836 [main] INFO  com.api.listeners.apiListeners - Test Success:loginAPIBasic
+23:58:32.836 [main] INFO  com.api.listeners.apiListeners - Test Success Description:loginAPIBasic
+23:58:32.836 [main] INFO  com.api.listeners.apiListeners - Test Start:loginAPISOP
+23:58:32.837 [main] INFO  com.api.listeners.apiListeners - Test Start Description:loginAPISOP
+23:58:33.770 [main] INFO  com.api.listeners.apiListeners - Test Success:loginAPISOP
+23:58:33.770 [main] INFO  com.api.listeners.apiListeners - Test Success Description:loginAPISOP
+23:58:33.773 [main] INFO  com.api.listeners.apiListeners - Test Start:signUpAPI
+23:58:33.773 [main] INFO  com.api.listeners.apiListeners - Test Start Description:signUpAPI
+23:58:34.846 [main] INFO  com.api.listeners.apiListeners - Test Failed:signUpAPI
+23:58:34.846 [main] INFO  com.api.listeners.apiListeners - Test Failed Description:signUpAPI
+23:58:34.868 [main] INFO  com.api.listeners.apiListeners - Test completed
