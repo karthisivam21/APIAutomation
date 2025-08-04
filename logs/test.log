@@ -1,0 +1,7 @@
+23:58:27.326 [main] INFO  com.api.listeners.apiListeners - Test Started
+23:58:27.353 [main] INFO  com.api.listeners.apiListeners - Test Start:LoginAPIDeSerialize
+23:58:27.353 [main] INFO  com.api.listeners.apiListeners - Test Start Description:LoginAPIDeSerialize
+23:58:29.586 [main] INFO  com.api.listeners.apiListeners - Test Success:LoginAPIDeSerialize
+23:58:29.587 [main] INFO  com.api.listeners.apiListeners - Test Success Description:LoginAPIDeSerialize
+
+01:04:36.121 [main] INFO  com.api.listeners.apiListeners - Test completed
