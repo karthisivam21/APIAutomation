@@ -2,6 +2,7 @@ package com.api.base;
 
 import com.api.models.request.LoginRequest;
 
+import io.qameta.allure.restassured.AllureRestAssured;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
@@ -13,7 +14,8 @@ public class BaseService {
 	private RequestSpecification reqSpc; 
 	
 	public BaseService() {
-		reqSpc = RestAssured.given().baseUri(baseUrl);
+		reqSpc = RestAssured.given().baseUri(baseUrl)
+				.filter(new AllureRestAssured());
 	}
 	
 	protected Response postRequesst(String payLoad, String endPoint)
